@@ -1,4 +1,4 @@
-# SDGSAT-1 Polar Ice and Snow Surface Temperature Retrieval Algorithm
+#  Ice or Snow Surface Temperature Retrieval Algorithm for SDGSAT-1
 
 This repository contains an algorithm for retrieving the surface temperature of polar ice and snow based on SDGSAT-1 satellite data. The algorithm leverages four window-based methods for inversion, which include:
 
