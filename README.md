@@ -1,15 +1,11 @@
 #  Ice or Snow Surface Temperature Retrieval Algorithm for SDGSAT-1
 
-This repository contains an algorithm for retrieving Ice or Snow surface temeprature (IST) based on SDGSAT-1 satellite data. The algorithm leverages four Splited-Window Algorithms (SWAs) for IST retrieval, which include:
+This repository contains four algorithms for retrieving Ice or Snow surface temeprature (IST) based on SDGSAT-1 satellite data. The algorithm leverages four Splited-Window Algorithms (SWAs) for IST retrieval, which include:
 
 - **PR1984**: 
 - **VI1991**:
 - **UL1994**: 
 - **Enter2019**:
-
-These methods are commonly used in remote sensing for surface temperature retrieval in polar regions.
-
-
 
 
 ## File Descriptions
@@ -33,7 +29,6 @@ These methods are commonly used in remote sensing for surface temperature retrie
    - If you're using custom emissivity maps, set `input_emi_flag` to `'yes'` and specify the path to the SDGSAT-1 multispectral data, as the system will automatically calculate the emissivity map.
    - If not, set `input_emi_flag` to `'no'`, and the algorithm will automatically choose the inversion method based on the region (land or sea ice). You will need to provide the input location or region for the algorithm to process.
 4. The algorithm will output the surface temperature data based on the selected inversion method.
-
 
 
 ## References
