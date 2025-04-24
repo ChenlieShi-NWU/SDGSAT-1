@@ -24,7 +24,6 @@ These methods are commonly used in remote sensing for surface temperature retrie
 
 - **`user_input_emi.m`**: This function allows users to input custom emissivity maps if needed. If no custom map is provided, the algorithm can automatically handle the default emissivity values.
 
-## Running the Algorithm
 
 ## Running the Algorithm
 
