@@ -1,7 +1,5 @@
 #  Ice or Snow Surface Temperature Retrieval Algorithm for SDGSAT-1
 
-##  Repository Description
-
 This repository contains four algorithms for retrieving Ice or Snow surface temeprature (IST) based on SDGSAT-1 satellite data. The algorithm leverages four Splited-Window Algorithms (SWAs) for IST retrieval, which include:
 
 - **PR1984**
