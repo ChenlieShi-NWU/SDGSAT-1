@@ -33,13 +33,13 @@ This repository contains four algorithms for retrieving Ice or Snow surface teme
 
 ## References
 
-1. Dozier, J., & Warren, S. G. (1984). Land surface temperature measurements from the split window channels of the NOAA 7 Advanced Very High Resolution Radiometer. *Journal of Geophysical Research: Atmospheres*, 89(D4), 5098-5104. [DOI: 10.1029/JD089iD04p05098](https://doi.org/10.1029/JD089iD04p05098).
+1. Price, J. C. (1984). Land surface temperature measurements from the split window channels of the NOAA 7 Advanced Very High Resolution Radiometer. Journal of Geophysical Research: Atmospheres, 89(D5), 7231-7237..
 
-2. Sobrino, J. A., & Raissouni, N. (1991). Atmospheric and emissivity correction of land surface temperature measured from satellite using ground measurements or satellite data. *International Journal of Remote Sensing*, 12(4), 625-633. [DOI: 10.1080/01431169108953749](https://doi.org/10.1080/01431169108953749).
+2. Vidal, A. (1991). Atmospheric and emissivity correction of land surface temperature measured from satellite using ground measurements or satellite data. TitleREMOTE SENSING, 12(12), 2449-2460.
 
-3. Ueno, T., & Lutz, R. A. (1994). A split window algorithm for estimating land surface temperature from satellites. *Remote Sensing of Environment*, 48(2), 160-170. [DOI: 10.1016/0034-4257(94)90037-9](https://doi.org/10.1016/0034-4257(94)90037-9).
+3. Ulivieri, C. M. M. A., Castronuovo, M. M., Francioni, R., & Cardillo, A. (1994). A split window algorithm for estimating land surface temperature from satellites. Advances in Space Research, 14(3), 59-65.
 
-4. Li, J., & Zeng, Z. (2019). Enterprise LST algorithm development and its evaluation with NOAA 20 data. *Remote Sensing of Environment*, 228, 123-136. [DOI: 10.1016/j.rse.2019.03.013](https://doi.org/10.1016/j.rse.2019.03.013).
+4. Liu, Y., Yu, Y., Yu, P., Wang, H., & Rao, Y. (2019). Enterprise LST algorithm development and its evaluation with NOAA 20 data. Remote Sensing, 11(17), 2003.
 
 
 ## Contact Me
