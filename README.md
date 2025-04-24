@@ -2,10 +2,10 @@
 
 This repository contains an algorithm for retrieving Ice or Snow surface temeprature (IST) based on SDGSAT-1 satellite data. The algorithm leverages four Splited-Window Algorithms (SWAs) for IST retrieval, which include:
 
-- **PR1984**: Method developed by Priestley & Robinson (1984)
-- **VI1991**: Method developed by Vidale & Inoue (1991)
-- **UL1994**: Method developed by Ueno & Lutz (1994)
-- **Enter2019**: Method developed by Enter et al. (2019)
+- **PR1984**: 
+- **VI1991**:
+- **UL1994**: 
+- **Enter2019**:
 
 These methods are commonly used in remote sensing for surface temperature retrieval in polar regions.
 
